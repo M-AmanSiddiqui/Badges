@@ -1,0 +1,1 @@
+consol.lo("aman")
